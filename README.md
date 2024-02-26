@@ -4,7 +4,7 @@
 
 I'm Rafael, a first-year Computer Science student at the National University of Singapore!
 
-I like math, I like code, I like chocolate.
+I was a contestant representing Indonesia on the International Mathematical Olympiad (IMO) in 2022 and 2023 (see my [results](https://www.imo-official.org/participant_r.aspx?id=31895)).
 
 ## 🌱 Projects
 
@@ -18,7 +18,7 @@ A modern web forum, originally made for the [CVWO Winter Assignment](https://www
 
 (This part is work-in-progress!)
 
-### Continued development of [Source Academy](https://github.com/source-academy)
+### Continued development of Source Academy
 
 Working on new features for [Source Academy](https://github.com/source-academy) (SA), the platform we use for teaching [CS1101S](https://nusmods.com/courses/CS1101S/programming-methodology) to students at NUS.
 
