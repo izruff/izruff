@@ -4,13 +4,13 @@
 
 I'm Rafael, a first-year Computer Science student at the National University of Singapore!
 
-I was a contestant representing Indonesia on the International Mathematical Olympiad (IMO) in 2022 and 2023 (see my [results](https://www.imo-official.org/participant_r.aspx?id=31895)).
+I was a contestant representing Indonesia on the International Mathematical Olympiad (IMO) in 2022 and 2023.
 
 ## 🌱 Projects
 
-### _Reviu_ web forum
+### Reviu: Reddit-like Web Forum
 
-A modern web forum, originally made for the [CVWO Winter Assignment](https://www.comp.nus.edu.sg/~vwo/). Uses Typescript, React, Golang, PostgreSQL, and other stuff. It's still in progress, and far from done!
+A modern web forum, uses Typescript, React, Golang, PostgreSQL, and other stuff. It's still in progress, and far from done!
 
 ## 🌠 Contributions
 
@@ -24,24 +24,9 @@ Working on new features for [Source Academy](https://github.com/source-academy) 
 
 I and my partner are currently working on improving _Sessions_. It is a medium for collaborative editing in the SA Playground, powered by [ShareDB](https://github.com/share/sharedb). You can find our PRs [here](https://github.com/search?q=org%3Asource-academy+author%3Aizruff&type=pullrequests).
 
-## 📈 STONKS
+## 📈 Stats
 
 <details>
   <summary>Language (by Wakatime)</summary>
   <img src="https://wakatime.com/share/@018caf21-bad2-40ad-bdb2-b9705b69a5d9/dd464a84-0a7c-4228-9b95-2fb02e6cde2f.svg" />
 </details>
-
-<!--
-**izruff/izruff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
